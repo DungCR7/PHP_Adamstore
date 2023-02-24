@@ -1,0 +1,18 @@
+.body-introduction {
+    position: relative;
+    top: 149px;
+    left: 1px;
+    padding: 0px 0px;
+    width: 1517px;
+    /* text-align: center; */
+    z-index: 4;
+    background: white;
+    height: 557px;
+    padding-bottom: 20px;
+}
+footer {
+    position: absolute;
+    top: 3963px;
+    width: 1518px;
+    /* height: 400px; */
+}

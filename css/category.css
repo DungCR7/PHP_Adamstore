@@ -1,0 +1,37 @@
+.img img:last-child{display:none}
+.img:hover img:first-child{display:none}
+.img:hover img:last-child{display:inline-block}
+.body-introduction {
+    position: relative;
+    top: 142px;
+    left: 1px;
+    padding: 0px 0px;
+    width: 1517px;
+    /* text-align: center; */
+    z-index: 4;
+    background: white;
+    height: 1327px;
+    padding-bottom: 20px;
+}
+footer{
+    position: absolute;
+    top: 1649px;
+    width: 1518px;
+    /* height: 400px; */
+}
+#pagination ul{
+	float:right;
+	margin-top:20px;}
+#pagination ul li a.page-link{
+	color:#333333;}			
+#pagination ul li a.page-link:hover{
+	background:#EB1F27;
+	color:#FFF;}
+#pagination ul li.active a{
+	background:#EB1F27;
+	border-color:#dee2e6;
+	color:#FFF;}	
+a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,25 @@
+footer{
+    position: absolute;
+    top: 3957px;
+    width: 1518px;
+    /* height: 400px; */
+}
+.address a{
+    text-decoration: none;
+    color: black;
+}
+.body-introduction-background {
+    width: 1518px;
+    height: 477px;
+    position: absolute;
+    top: 15px;
+    background: url(../image/background.jpg);
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    text-align: center;
+    color: white;
+    z-index: 2;
+}
